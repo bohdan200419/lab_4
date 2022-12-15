@@ -1,0 +1,4 @@
+Hard drive info
+Firm name: C	The amount of rev/min: 10	Size GB: 256
+Optical disk info
+Firm name: D	Amount of cylinders: 2	Size GB: 512
